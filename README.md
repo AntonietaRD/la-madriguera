@@ -17,7 +17,7 @@ The solution empowers **Topos FC** to grow their community, generate income thro
 ### Frontend
 - **React.js** — Component-based UI development
 - **HTML5 + CSS3** — Semantic and accessible markup
-- **JavaScript** — Frontend logic
+- **TypeScript** — Frontend logic
 - **Responsive Design** — Mobile-first layout and screen reader compatibility
 
 ### Backend
