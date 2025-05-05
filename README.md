@@ -34,7 +34,7 @@ The solution empowers **Topos FC** to grow their community, generate income thro
 ## ⚙️ Features
 
 ### 🧑‍🤝‍🧑 Users
-- Reserve football fields via a calendar and request form.
+- Reserve soccer fields via a calendar and request form.
 - Register teams for available tournaments.
 - View match statistics (e.g., results, scorers, cards).
 - Receive updates via email.
