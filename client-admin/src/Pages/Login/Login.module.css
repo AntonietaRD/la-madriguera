@@ -1,0 +1,73 @@
+.pageContainer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #f9ede0;
+    padding-bottom: 5vh;
+    overflow-y:scroll;
+}
+
+.contentWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    gap: 5vh;
+    width: 100vw;
+    height: 100vh;
+    color: #1a1a1a;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+
+}
+
+.headerWrapper{
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 700vh;
+    background-image: url("src/assets/juego2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.overlayImageContainer {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1; 
+  }
+  
+  .overlayImage {
+    max-width: 20%; 
+    max-height: 20%;
+  }
+
+
+.formGroup {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-color: #1a1a1a;
+}
+
+.centeredButton {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .formContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

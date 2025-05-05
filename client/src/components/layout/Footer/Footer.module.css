@@ -1,0 +1,27 @@
+/* Reduce el padding y el margen en el footer */
+footer .p-2 {
+	padding: 0.5rem !important;
+  }
+  
+  footer .mb-2 {
+	margin-bottom: 0.5rem !important;
+  }
+  
+  /* Ajusta el tamaño del texto */
+  footer .fw-bold {
+	font-size: 0.9rem;
+  }
+  
+  footer p, footer a {
+	font-size: 0.85rem;
+  }
+  
+  /* Ajusta el tamaño de los iconos */
+  footer .me-2 {
+	margin-right: 0.5rem !important;
+  }
+  
+  .footer-custom {
+	background-color: #fce5a5;
+  }
+  

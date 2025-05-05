@@ -1,0 +1,9 @@
+.button {
+	min-width: fit-content;
+	max-width: 80%;
+	font-family: 'Inter', sans-serif;
+	font-weight: 400;
+	box-shadow: 0 4px 8px rgba(117, 117, 117, 0.2);
+	margin: 0;
+	font-size: 1em;
+}

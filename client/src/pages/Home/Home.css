@@ -1,0 +1,86 @@
+/* Home.css */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bowlby+One+SC&family=Carattere&family=Luckiest+Guy&family=Meow+Script&family=Parisienne&family=Paytone+One&family=Poiret+One&family=Titan+One&family=Updock&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body, html, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+  
+  .content-container {
+    color: white;
+    text-align: center;
+  }
+
+  .app-container {
+    width: 100%;
+
+  }
+
+
+  .logo{
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .p-home{
+    color: white;
+  }
+
+  .custom-carousel .carousel-item img {
+    border-radius: 25px; 
+  }
+
+  .custom-carousel img {
+    height: 550px; 
+    object-fit: cover; 
+  }
+
+  .boton1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -370%);
+    text-align: center;
+    width: 300px;            
+    height: 70px;   
+    padding: 20px 40px;             
+    cursor: pointer;            
+    display: flex;              
+    align-items: center;        
+    justify-content: center;   
+    text-align: center;  
+  }
+
+
+.rounded-square {
+  width: 80vw;
+  height: 15vh;
+  background-color: #fce5a5; 
+  border-radius: 60px;
+  box-shadow: 0 4px 8px rgba(117, 117, 117, 0.2); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5em; 
+  text-align: center;
+  color: black;
+  padding: 60px;
+}
+
+.container1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+
+
+
+
+  

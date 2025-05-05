@@ -1,0 +1,8 @@
+.btn {
+	min-width: fit-content;
+	width: 14vw;
+	display: inline-block;
+	justify-content: center;
+	align-items: center;
+	gap: 6vw;
+}
