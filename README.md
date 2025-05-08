@@ -64,7 +64,7 @@ Developed by students of **Tecnológico de Monterrey, Campus Puebla**, for the n
 **Authors:**
 - 🎓 Antonieta Rodríguez
 - 🎓 Sofía Zugasti
-- 🎓 Jonathan Arredondo
+- 🎓 [Jonathan Arredondo](https://github.com/jonar12)
 - 🎓 Kevin Núñez
 
 Project coordinated in collaboration with **Fucho para Ciegos** and faculty members.
